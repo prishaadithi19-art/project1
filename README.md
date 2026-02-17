@@ -1,3 +1,3 @@
 # first_project
-This is my first project.
+This is my first Git repository.
 Author-Prisha Adithi Murugan
